@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5E5F52F6-4719-42C3-A55C-1E3AB264E2AE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ReposBrowser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>677B66EC-C8D4-4C0D-B278-78B124DBF662</key>
+		<string>ssh://github.com/burczyk/ReposBrowser.git</string>
+		<key>8B45389D-A97C-429C-815D-B5183141C7DC</key>
+		<string>ssh://github.com/burczyk/NetworkLib.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ReposBrowser.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>677B66EC-C8D4-4C0D-B278-78B124DBF662</key>
+		<string>..</string>
+		<key>8B45389D-A97C-429C-815D-B5183141C7DC</key>
+		<string>../../NetworkLib</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/burczyk/ReposBrowser.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>677B66EC-C8D4-4C0D-B278-78B124DBF662</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8B45389D-A97C-429C-815D-B5183141C7DC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NetworkLib</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>677B66EC-C8D4-4C0D-B278-78B124DBF662</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ReposBrowser</string>
+		</dict>
+	</array>
+</dict>
+</plist>
